@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Javier Caballero, a network and systems administrator, currently working as a web developer using Ruby, specifically with the Ruby on Rails framework.
 <!--
 **JavierCaballeroL/JavierCaballeroL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
