@@ -1,6 +1,21 @@
-## Hi there 👋
+## 👋 Hi there, I'm Javier Caballero 
 
-I'm Javier Caballero, a network and systems administrator, currently working as a web developer using Ruby, specifically with the Ruby on Rails framework.
+I'm a network and systems administrator, currently working as a web developer using Ruby, specifically with the Ruby on Rails framework.
+
+
+## 💻 About Me
+
+- 🔧 Background in network and systems administration
+- 💡 Passionate about automation and building scalable web applications
+- 📚 Always learning and exploring new technologies
+
+
+## 🛠️ Tech Stack
+LANGUAGES
+<i class="devicon-ruby-plain-wordmark colored"></i>
+          
+
+
 <!--
 **JavierCaballeroL/JavierCaballeroL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
