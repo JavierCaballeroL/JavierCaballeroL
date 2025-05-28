@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 ## 👋 Hi there, I'm Javier Caballero 
 
 I'm a network and systems administrator, currently working as a web developer using Ruby, specifically with the Ruby on Rails framework.
