@@ -12,7 +12,8 @@ I'm a network and systems administrator, currently working as a web developer us
 
 ## 🛠️ Tech Stack
 LANGUAGES
-<i class="devicon-ruby-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+          
           
 
 
