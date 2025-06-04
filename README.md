@@ -20,7 +20,7 @@ I'm a network and systems administrator, currently working as a web developer us
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" style="width: 60px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="width: 60px;" />
 
 
-## 📜 Shell & Scripting
+## 📜 Scripting
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width: 60px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" style="width: 60px;" />
 
 ## 🗄️ Databases
